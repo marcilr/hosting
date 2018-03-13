@@ -1,0 +1,17 @@
+hosting.txt
+Created Thu Jun  5 08:51:03 AKDT 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Potential hosting companies
+
+
+Links
+======
+https://www.digitalocean.com/
+Simple cloud hosting, built for developers.
+Deploy an SSD cloud server in 55 seconds.
+SSD Virtual Servers:
+  $5/mo, 20GB disk, 512MB memory
+Looks inexpensive and promising.
+https://www.digitalocean.com/
